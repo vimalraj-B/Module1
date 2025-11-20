@@ -12,7 +12,22 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
+## Developed By : VIMALRAJ B
+## Register Number : 212224230304
+```
+a=int(input())
+if(a%2==0):
+    print("EVEN")
+else:
+    print("ODD")
+```
 
 ## Output
 
+<img width="500" height="286" alt="image" src="https://github.com/user-attachments/assets/584edce7-09dd-40c3-86e3-973f1e062d28" />
+
+
 ## Result
+
+Thus , the program was executed Successfully.
+
